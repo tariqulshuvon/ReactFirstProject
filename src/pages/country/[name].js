@@ -24,6 +24,7 @@ const CountryDetails = () => {
         <>
           <div className="border">
             <p>{countryDetails[0]?.name}</p>
+            <p> nothing </p>
           </div>
         </>
       )}
